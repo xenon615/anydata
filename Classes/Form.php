@@ -2,6 +2,7 @@
 namespace AnyData;
 class Form {
 	private static $_instance;
+	private $params;
     function __construct ($params) {
 		$this->params =  $params;
         add_screen_option('layout_columns', array( 'max' => 2, 'default' => 2 ));
@@ -9,7 +10,6 @@ class Form {
 			$this->params['init']();
 		}
 		self::$_instance = $this;
-	
     }
 
 	static function getInstance() {

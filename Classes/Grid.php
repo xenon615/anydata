@@ -7,7 +7,7 @@ class Grid extends \WP_List_Table {
 	private $_sortable = [];
 	private $_uid_column = '';
 	private $_row_actions;
-    protected $_search_by = '';
+    protected $_search_by = [];
 	protected $_bulk_actions;
 	protected $_filters;
 	protected $_views;
