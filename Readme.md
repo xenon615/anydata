@@ -10,7 +10,7 @@ This is what this plugin was developed for.
 Let's imagine that in the database, in addition to the WordPress tables, there is a city table that has 3 fields(id, city, country)
 and we want to see them in the grid.  
 
-Please refer to [ example ] (https://github.com/xenon615/anydata/examples/demo-theme)  
+Please refer to [/examples/demo-theme](/examples/demo-theme)  
 
 
 
