@@ -8,9 +8,9 @@ This is what this plugin was developed for.
 ### Usecase
 
 Let's imagine that in the database, in addition to the WordPress tables, there is a city table that has 3 fields(id, city, country)
-and we want to see them in the grid.
+and we want to see them in the grid.  
 
-Please refer to [ example ] ( examples/demo-theme/Readme.md )  
+Please refer to [ example ] (https://github.com/xenon615/anydata/examples/demo-theme)  
 
 
 
